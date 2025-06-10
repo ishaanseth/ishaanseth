@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Ishaan Seth
+### Hi there 👋, I'm Ishaan Seth
 
-### 🎓 2nd Year Electrical Engineering Student at IIT Madras
+#### 🎓 2nd Year Electrical Engineering Student at IIT Madras
 
 I’m Ishaan, an enthusiastic Electrical Engineering undergrad at IIT Madras with a passion for:
 
