@@ -5,17 +5,17 @@
 I’m Ishaan, an enthusiastic Electrical Engineering undergrad at IIT Madras with a passion for:
 
 - 🤖 Artificial Intelligence and Machine Learning
-- ⚡ Power Electronics & Renewable Energy
+- ⚡ Software Development & Backend Development
 - 📊 Data Analysis & Algorithmic Trading
 - 🔧 Circuit Design & Simulation (LTSpice, MATLAB)
 
 
 ### 🛠️ Skills & Tools
 
-- **Programming:** Python, C, C++
+- **Programming:** Python, C, C++, Java, Typescript
 - **Simulation:** LTSpice, MATLAB
-- **Software Packages:** Pandas, Tensorflow, PyTorch, Google-GenAI, uv, Pipecat, Google Cloud
-- **Web & Data:** HTML, CSS, JavaScript, TypeScript, React.js
+- **Software Packages:** Pandas, Tensorflow, PyTorch, SKLearn, Google-GenAI, uv, Pipecat, Google Cloud
+- **Web & Data:** HTML, CSS, JavaScript, TypeScript
 
 
 ### 🚀 What I’m Up To
