@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaanseth&label=Profile%20views&color=0e75b6&style=flat" alt="ishaanseth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanseth&theme=onedark&column=1&row=1" alt="ishaanseth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaanseth&theme=onedark&column=8&row=1" alt="ishaanseth" /></a> </p>
 
 - 🔭 I’m currently working on [SEBI Portfolio Tracker](https://github.com/ishaanseth/sebi-portfolio-tracker)
 
