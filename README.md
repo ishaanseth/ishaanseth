@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaanseth&show_icons=true&locale=en&layout=donut&hide=jupyter%20notebook,shaderlab,asp.net,hlsl,roff,typescript&theme=algolia&exclude_repo=EE2703-Applied-Programming-Lab-Assignments,GTA_IITM,Suppl-ai,appian,sms_classification,Convolve,brick_breaker_3d,paper_plane_sim,AmoebaRunner,Aerogami,time-reversal,deutsche-bank-buildathon" alt="ishaanseth" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ishaanseth&show_icons=true&locale=en&theme=algolia&hide=contribs,issues&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&line_height=28" alt="ishaanseth" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=ishaanseth&show_icons=true&locale=en&theme=algolia&hide=contribs,issues&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=github&line_height=28" alt="ishaanseth" /></p>
