@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaanseth&show_icons=true&locale=en&layout=donut&hide=jupyter%20notebook,shaderlab&theme=algolia" alt="ishaanseth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaanseth&show_icons=true&locale=en&theme=algolia&hide_rank" alt="ishaanseth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaanseth&show_icons=true&locale=en&theme=algolia&hide_rank=true" alt="ishaanseth" /></p>
