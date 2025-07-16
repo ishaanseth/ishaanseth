@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Seth</h1>
-<h3 align="center">🎓 2nd Year Electrical Engineering Student at IIT Madras</h3>
+<h3 align="center">🎓 3rd Year Electrical Engineering Student at IIT Madras</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishaanseth&label=Profile%20views&color=0e75b6&style=flat" alt="ishaanseth" /> </p>
 
