@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishaan Seth</h1>
 <h3 align="center">🎓 3rd Year Electrical Engineering Student at IIT Madras</h3>
+<h4 align="center">⚡ Interested in Quant, AI/ML systems, and high-performance computing</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishaanseth&label=Profile%20views&color=0e75b6&style=flat" alt="ishaanseth" /> </p>
 
@@ -7,11 +8,11 @@
 
 - 🔭 I’m currently working on [SEBI Portfolio Tracker](https://github.com/ishaanseth/sebi-portfolio-tracker)
 
-- 🌱 I’m currently learning **Google-GenAI, C++ and DSA**
+- 🌱 I’m currently learning **Google-GenAI, Quantitative Analysis and Stochastic Modelling**
 
 - 👨‍💻 All of my projects are available at [https://ishaanseth.github.io](https://ishaanseth.github.io)
 
-- 💬 Ask me about **Python, AI/ML, Docker and Bash**
+- 💬 Ask me about **Quant, Python, AI/ML and Bash**
 
 - 📫 How to reach me **ishaanseth2005@gmail.com**
 
